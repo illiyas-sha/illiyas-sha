@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @illiyas-sha
 - 👀 I’m interested in data science, AI
-- 🌱 I’m currently learning Statistics, data visulaization
+- 🌱 I’m currently learning Statistics, Probability & Machine Learning Algorithms
 - 💞️ I’m looking to collaborate on data science projects...
 <!--- 📫 How to reach me ...
 --->
