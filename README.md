@@ -20,7 +20,7 @@
 
 - 📝 My blogs **https://illiyas.medium.com/**
 
-- 📫 How to reach me [Email_id](illiyassha08@gmail.com)
+- 📫 How to reach me *illiyassha08@gmail.com*
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1ljP7yoHh6bt4Vmt6_KAUiqIScbmULCR9)
 
